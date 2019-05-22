@@ -1,0 +1,1856 @@
+{
+    "statuses": [
+        {
+            "created_at": "Wed May 22 00:44:02 +0000 2019",
+            "id": 1130997713376546800,
+            "id_str": "1130997713376546816",
+            "text": "@McDonalds @McDonalds, what are you hiding from your shareholders in Dallas? It’s time to ban cruelty and commit to… https://t.co/aigY6ha1HB",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            11,
+                            21
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/aigY6ha1HB",
+                        "expanded_url": "https://twitter.com/i/web/status/1130997713376546816",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1126575064340680700,
+            "in_reply_to_status_id_str": "1126575064340680709",
+            "in_reply_to_user_id": 71026122,
+            "in_reply_to_user_id_str": "71026122",
+            "in_reply_to_screen_name": "McDonalds",
+            "user": {
+                "id": 49711758,
+                "id_str": "49711758",
+                "name": "Leni",
+                "screen_name": "Lenistar",
+                "location": "New York, USA",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3,
+                "friends_count": 5,
+                "listed_count": 0,
+                "created_at": "Mon Jun 22 18:12:54 +0000 2009",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 17,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "8B542B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "9D582E",
+                "profile_sidebar_border_color": "D9B17E",
+                "profile_sidebar_fill_color": "EADEAA",
+                "profile_text_color": "941894",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:43:32 +0000 2019",
+            "id": 1130997589149667300,
+            "id_str": "1130997589149667329",
+            "text": "@McDonalds @McDonalds, what are you hiding from your shareholders in Dallas? It’s\ntime to ban cruelty and commit to… https://t.co/SlMLcmkpmt",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            11,
+                            21
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/SlMLcmkpmt",
+                        "expanded_url": "https://twitter.com/i/web/status/1130997589149667329",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1127578888601833500,
+            "in_reply_to_status_id_str": "1127578888601833477",
+            "in_reply_to_user_id": 71026122,
+            "in_reply_to_user_id_str": "71026122",
+            "in_reply_to_screen_name": "McDonalds",
+            "user": {
+                "id": 1071451702794969100,
+                "id_str": "1071451702794969089",
+                "name": "Lindsey Bombard",
+                "screen_name": "lindseybombardv",
+                "location": "Los Angeles, CA",
+                "description": "Talent Development Manager @MercyForAnimals",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28,
+                "friends_count": 95,
+                "listed_count": 0,
+                "created_at": "Sat Dec 08 17:09:27 +0000 2018",
+                "favourites_count": 125,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 20,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1099710316147953664/glRe22KG_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099710316147953664/glRe22KG_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071451702794969089/1544293523",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:43:02 +0000 2019",
+            "id": 1130997460141260800,
+            "id_str": "1130997460141260801",
+            "text": "Which is the best deal? 🍔🍟🥤⬇️\n\n#Wendys #TacoBell #Krystals #McDonalds #FastFood #Food #Deals",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Wendys",
+                        "indices": [
+                            31,
+                            38
+                        ]
+                    },
+                    {
+                        "text": "TacoBell",
+                        "indices": [
+                            39,
+                            48
+                        ]
+                    },
+                    {
+                        "text": "Krystals",
+                        "indices": [
+                            49,
+                            58
+                        ]
+                    },
+                    {
+                        "text": "McDonalds",
+                        "indices": [
+                            59,
+                            69
+                        ]
+                    },
+                    {
+                        "text": "FastFood",
+                        "indices": [
+                            70,
+                            79
+                        ]
+                    },
+                    {
+                        "text": "Food",
+                        "indices": [
+                            80,
+                            85
+                        ]
+                    },
+                    {
+                        "text": "Deals",
+                        "indices": [
+                            86,
+                            92
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1086360222107619300,
+                "id_str": "1086360222107619328",
+                "name": "TFC (The Fat Crew)",
+                "screen_name": "TheFatCrewTFC",
+                "location": "Birmingham, AL",
+                "description": "Sports | Pop culture | Food | The Funnies | Entertainment , Podcasts, Content For you |",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 290,
+                "friends_count": 221,
+                "listed_count": 0,
+                "created_at": "Fri Jan 18 20:30:35 +0000 2019",
+                "favourites_count": 1307,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 221,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1088238180879532032/93Pfdhny_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088238180879532032/93Pfdhny_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086360222107619328/1558192310",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:41:51 +0000 2019",
+            "id": 1130997162324713500,
+            "id_str": "1130997162324713472",
+            "text": "@McDonalds, what are you hiding from your shareholders in Dallas? It’s time to ban cruelty and commit to a better p… https://t.co/CcgRGirj4x",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/CcgRGirj4x",
+                        "expanded_url": "https://twitter.com/i/web/status/1130997162324713472",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 71026122,
+            "in_reply_to_user_id_str": "71026122",
+            "in_reply_to_screen_name": "McDonalds",
+            "user": {
+                "id": 49711758,
+                "id_str": "49711758",
+                "name": "Leni",
+                "screen_name": "Lenistar",
+                "location": "New York, USA",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3,
+                "friends_count": 5,
+                "listed_count": 0,
+                "created_at": "Mon Jun 22 18:12:54 +0000 2009",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 17,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "8B542B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "9D582E",
+                "profile_sidebar_border_color": "D9B17E",
+                "profile_sidebar_fill_color": "EADEAA",
+                "profile_text_color": "941894",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:41:33 +0000 2019",
+            "id": 1130997086571442200,
+            "id_str": "1130997086571442176",
+            "text": "@McDonalds, what are you hiding from your shareholders in Dallas? It’s time to ban cruelty and commit to a better p… https://t.co/PVHH8JKKuU",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/PVHH8JKKuU",
+                        "expanded_url": "https://twitter.com/i/web/status/1130997086571442176",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 71026122,
+            "in_reply_to_user_id_str": "71026122",
+            "in_reply_to_screen_name": "McDonalds",
+            "user": {
+                "id": 2451908202,
+                "id_str": "2451908202",
+                "name": "Eve Wetlaufer",
+                "screen_name": "eve_christa",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 149,
+                "friends_count": 397,
+                "listed_count": 0,
+                "created_at": "Fri Apr 18 20:38:47 +0000 2014",
+                "favourites_count": 793,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 285,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/552914635150880769/8VHrnrWl_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/552914635150880769/8VHrnrWl_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2451908202/1504883373",
+                "profile_link_color": "00B38F",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:41:16 +0000 2019",
+            "id": 1130997017063415800,
+            "id_str": "1130997017063415808",
+            "text": "@McDonalds @McDonalds, what are you hiding from your shareholders in Dallas? It’s time to ban cruelty and commit to… https://t.co/gbkxiXhuUg",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            11,
+                            21
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/gbkxiXhuUg",
+                        "expanded_url": "https://twitter.com/i/web/status/1130997017063415808",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1127578888601833500,
+            "in_reply_to_status_id_str": "1127578888601833477",
+            "in_reply_to_user_id": 71026122,
+            "in_reply_to_user_id_str": "71026122",
+            "in_reply_to_screen_name": "McDonalds",
+            "user": {
+                "id": 839302727733755900,
+                "id_str": "839302727733755904",
+                "name": "Ryan Bulzan",
+                "screen_name": "BulzanRyan",
+                "location": "Decatur, GA",
+                "description": "Grassroots Coordinator @thehumaneleague",
+                "url": "https://t.co/MMWSzyyJCu",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/MMWSzyyJCu",
+                                "expanded_url": "http://www.facebook.com/HumaneLeagueATL",
+                                "display_url": "facebook.com/HumaneLeagueATL",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 201,
+                "friends_count": 229,
+                "listed_count": 1,
+                "created_at": "Wed Mar 08 02:32:18 +0000 2017",
+                "favourites_count": 2567,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1829,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1020008622716309506/mW--eIX9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020008622716309506/mW--eIX9_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/839302727733755904/1491182542",
+                "profile_link_color": "FF691F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:40:39 +0000 2019",
+            "id": 1130996861924532200,
+            "id_str": "1130996861924532224",
+            "text": "@McDonalds It’s time to make real change for chickens! No company with morals should allow animal abuse. You need t… https://t.co/tYs7vMacH4",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/tYs7vMacH4",
+                        "expanded_url": "https://twitter.com/i/web/status/1130996861924532224",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1127578888601833500,
+            "in_reply_to_status_id_str": "1127578888601833477",
+            "in_reply_to_user_id": 71026122,
+            "in_reply_to_user_id_str": "71026122",
+            "in_reply_to_screen_name": "McDonalds",
+            "user": {
+                "id": 19678061,
+                "id_str": "19678061",
+                "name": "Matt Marshall",
+                "screen_name": "mattmarshall",
+                "location": "",
+                "description": "",
+                "url": "https://t.co/MnKVxBIZZ3",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/MnKVxBIZZ3",
+                                "expanded_url": "http://instagram.com/mattsvegan",
+                                "display_url": "instagram.com/mattsvegan",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 203,
+                "friends_count": 268,
+                "listed_count": 16,
+                "created_at": "Wed Jan 28 21:42:04 +0000 2009",
+                "favourites_count": 4077,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3559,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "777777",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/755252578053750784/5v6eFOTs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/755252578053750784/5v6eFOTs_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/19678061/1448488337",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:40:11 +0000 2019",
+            "id": 1130996743104028700,
+            "id_str": "1130996743104028672",
+            "text": "#McDonalds faces 25 new #sexualharassment complaints https://t.co/mnSDPSOQ2g",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "McDonalds",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "text": "sexualharassment",
+                        "indices": [
+                            24,
+                            41
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/mnSDPSOQ2g",
+                        "expanded_url": "https://www.aol.com/article/finance/2019/05/21/mcdonalds-faces-25-new-sexual-harassment-complaints-from-workers/23732071/",
+                        "display_url": "aol.com/article/financ…",
+                        "indices": [
+                            53,
+                            76
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 33551814,
+                "id_str": "33551814",
+                "name": "LaDonna W",
+                "screen_name": "Blind_Abandon",
+                "location": "Texas",
+                "description": "Stuck inside a cloud... I'm an independent in all things. A critical thinker. Seeker of truth. A heart for all living creatures.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 298,
+                "friends_count": 1176,
+                "listed_count": 25,
+                "created_at": "Mon Apr 20 15:34:55 +0000 2009",
+                "favourites_count": 1161,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 14583,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/605419550566260736/0NxPlaGI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/605419550566260736/0NxPlaGI_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33551814/1419076571",
+                "profile_link_color": "1F98C7",
+                "profile_sidebar_border_color": "C6E2EE",
+                "profile_sidebar_fill_color": "DAECF4",
+                "profile_text_color": "663B12",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:39:34 +0000 2019",
+            "id": 1130996588740898800,
+            "id_str": "1130996588740898816",
+            "text": "RT @McThai: ยกทัพความอร่อยของซามูไรเบอร์เกอร์หมู! ที่พิเศษกว่าเดิม นำทัพโดยดับเบิ้ลซามูไรเบอร์เกอร์ อร่อยจัดเต็มกับซอสซามูไร ชุ่มช่ำจนถึงคำ…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McThai",
+                        "name": "McDonald's Thailand",
+                        "id": 76299481,
+                        "id_str": "76299481",
+                        "indices": [
+                            3,
+                            10
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "th",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 886868488924483600,
+                "id_str": "886868488924483584",
+                "name": "Nnoir",
+                "screen_name": "ChiiLliiLla",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 24,
+                "friends_count": 14,
+                "listed_count": 0,
+                "created_at": "Mon Jul 17 08:41:39 +0000 2017",
+                "favourites_count": 165,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1096,
+                "lang": "th",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1013620174576947200/diBWpI4T_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013620174576947200/diBWpI4T_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed May 15 05:16:17 +0000 2019",
+                "id": 1128529512822476800,
+                "id_str": "1128529512822476801",
+                "text": "ยกทัพความอร่อยของซามูไรเบอร์เกอร์หมู! ที่พิเศษกว่าเดิม นำทัพโดยดับเบิ้ลซามูไรเบอร์เกอร์ อร่อยจัดเต็มกับซอสซามูไร… https://t.co/Jh5wCm84ow",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/Jh5wCm84ow",
+                            "expanded_url": "https://twitter.com/i/web/status/1128529512822476801",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                114,
+                                137
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "th",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 76299481,
+                    "id_str": "76299481",
+                    "name": "McDonald's Thailand",
+                    "screen_name": "McThai",
+                    "location": "Thailand",
+                    "description": "แมคโดนัลด์ ประเทศไทย ยินดีให้บริการ สั่งอาหารคลิก https://t.co/GOTBGWPDUS หรือโทร 1711",
+                    "url": "https://t.co/GOTBGWPDUS",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/GOTBGWPDUS",
+                                    "expanded_url": "https://www.mcdonalds.co.th/home.aspx",
+                                    "display_url": "mcdonalds.co.th/home.aspx",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/GOTBGWPDUS",
+                                    "expanded_url": "https://www.mcdonalds.co.th/home.aspx",
+                                    "display_url": "mcdonalds.co.th/home.aspx",
+                                    "indices": [
+                                        50,
+                                        73
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 32555,
+                    "friends_count": 17,
+                    "listed_count": 92,
+                    "created_at": "Tue Sep 22 10:27:00 +0000 2009",
+                    "favourites_count": 62,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 7722,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "9AE4E8",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1079766377110491137/g5uTghJf_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079766377110491137/g5uTghJf_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/76299481/1549625175",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "FABD23",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 882,
+                "favorite_count": 881,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "scopes": {
+                    "followers": false
+                },
+                "lang": "th"
+            },
+            "is_quote_status": false,
+            "retweet_count": 882,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "th"
+        },
+        {
+            "created_at": "Wed May 22 00:38:05 +0000 2019",
+            "id": 1130996214219137000,
+            "id_str": "1130996214219137026",
+            "text": "Regramming this beauty by the image maker extraordinaire @violettinder because MILKSHAKE 🥛 💕 #weaponofchoice… https://t.co/wXNSUZO504",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "weaponofchoice",
+                        "indices": [
+                            93,
+                            108
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "violettinder",
+                        "name": "Natasha Martin",
+                        "id": 3060612894,
+                        "id_str": "3060612894",
+                        "indices": [
+                            57,
+                            70
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/wXNSUZO504",
+                        "expanded_url": "https://twitter.com/i/web/status/1130996214219137026",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            110,
+                            133
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 4635434595,
+                "id_str": "4635434595",
+                "name": "Mean Mail",
+                "screen_name": "meanmail",
+                "location": "London, England",
+                "description": "Beautiful cards, brutal words. As seen in Cosmopolitan, Elle Canada, Evening Standard and on BBC Radio 1Extra. Visit our pop up at @StylistLive 9-11 November.",
+                "url": "https://t.co/qVpgj0cGg9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/qVpgj0cGg9",
+                                "expanded_url": "http://www.meanmail.co",
+                                "display_url": "meanmail.co",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 719,
+                "friends_count": 501,
+                "listed_count": 6,
+                "created_at": "Mon Dec 28 19:45:54 +0000 2015",
+                "favourites_count": 2085,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1383,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/885888851658641409/V93HEwf-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/885888851658641409/V93HEwf-_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4635434595/1517176049",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:37:26 +0000 2019",
+            "id": 1130996051249438700,
+            "id_str": "1130996051249438725",
+            "text": "@McDonalds, it’s time to make real change for chickens! No company with morals should allow animal abuse. You need… https://t.co/EpM9iOJik0",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/EpM9iOJik0",
+                        "expanded_url": "https://twitter.com/i/web/status/1130996051249438725",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 71026122,
+            "in_reply_to_user_id_str": "71026122",
+            "in_reply_to_screen_name": "McDonalds",
+            "user": {
+                "id": 1111242236472246300,
+                "id_str": "1111242236472246272",
+                "name": "NYC61",
+                "screen_name": "pgw611",
+                "location": "New York, NY",
+                "description": "Vegan & native New Yorker. Grew up in Yorkville, not the UES, thank you very much. #AnimalLiberation",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 29,
+                "friends_count": 66,
+                "listed_count": 0,
+                "created_at": "Thu Mar 28 12:22:49 +0000 2019",
+                "favourites_count": 1289,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1856,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1130852824420478978/IEVZQqZd_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130852824420478978/IEVZQqZd_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111242236472246272/1558451497",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:37:17 +0000 2019",
+            "id": 1130996015316840400,
+            "id_str": "1130996015316840448",
+            "text": "@McDonalds, what are you hiding from your shareholders in Dallas? It’s time to ban cruelty and commit to a better p… https://t.co/e6k83YsdtA",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/e6k83YsdtA",
+                        "expanded_url": "https://twitter.com/i/web/status/1130996015316840448",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 71026122,
+            "in_reply_to_user_id_str": "71026122",
+            "in_reply_to_screen_name": "McDonalds",
+            "user": {
+                "id": 1111242236472246300,
+                "id_str": "1111242236472246272",
+                "name": "NYC61",
+                "screen_name": "pgw611",
+                "location": "New York, NY",
+                "description": "Vegan & native New Yorker. Grew up in Yorkville, not the UES, thank you very much. #AnimalLiberation",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 29,
+                "friends_count": 66,
+                "listed_count": 0,
+                "created_at": "Thu Mar 28 12:22:49 +0000 2019",
+                "favourites_count": 1289,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1856,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1130852824420478978/IEVZQqZd_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130852824420478978/IEVZQqZd_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111242236472246272/1558451497",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed May 22 00:37:11 +0000 2019",
+            "id": 1130995987705679900,
+            "id_str": "1130995987705679872",
+            "text": "RT @pedidosya: Tus combos favoritos ahora llegan a la puerta de tu casa! Hacé tu pedido en Mc Donald’s en minutos, nosotros te lo llevamos…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pedidosya",
+                        "name": "PedidosYa",
+                        "id": 86568244,
+                        "id_str": "86568244",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 885825739827933200,
+                "id_str": "885825739827933184",
+                "name": "LaChechuElColu",
+                "screen_name": "LaChechuElColu",
+                "location": "Mar del Plata, Argentina",
+                "description": "Solo por Mar del Directo",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6,
+                "friends_count": 118,
+                "listed_count": 0,
+                "created_at": "Fri Jul 14 11:38:09 +0000 2017",
+                "favourites_count": 802,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 355,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1068215167123685376/K2ynUBlE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068215167123685376/K2ynUBlE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/885825739827933184/1543517362",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jan 09 12:45:13 +0000 2019",
+                "id": 1082981618975940600,
+                "id_str": "1082981618975940609",
+                "text": "Tus combos favoritos ahora llegan a la puerta de tu casa! Hacé tu pedido en Mc Donald’s en minutos, nosotros te lo… https://t.co/kVFh9miXPe",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/kVFh9miXPe",
+                            "expanded_url": "https://twitter.com/i/web/status/1082981618975940609",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.httpool.com\" rel=\"nofollow\">Httpool Ads</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 86568244,
+                    "id_str": "86568244",
+                    "name": "PedidosYa",
+                    "screen_name": "pedidosya",
+                    "location": "América Latina",
+                    "description": "Hoy puede tener otro gusto. 🥗🥙🌮🍔🍟🍕🍤Restaurates, mercados, bebidas, farmacias y mascotas.  Pedí lo que quieras de donde quieras.  #TeLlenaElCorazón.",
+                    "url": "https://t.co/2HJ8PoJQ6V",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/2HJ8PoJQ6V",
+                                    "expanded_url": "http://www.pedidosya.com/",
+                                    "display_url": "pedidosya.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 38446,
+                    "friends_count": 389,
+                    "listed_count": 52,
+                    "created_at": "Sat Oct 31 17:29:17 +0000 2009",
+                    "favourites_count": 8749,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 15504,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "EE4240",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/882180595157225472/-pxu0R7D_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882180595157225472/-pxu0R7D_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/86568244/1537282384",
+                    "profile_link_color": "EE4240",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "A0A0A0",
+                    "profile_text_color": "EB0000",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 605,
+                "favorite_count": 12158,
+                "favorited": false,
+                "retweeted": false,
+                "scopes": {
+                    "followers": false
+                },
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 605,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Wed May 22 00:34:28 +0000 2019",
+            "id": 1130995304436834300,
+            "id_str": "1130995304436834306",
+            "text": "RT @pedidosya: Tus combos favoritos ahora llegan a la puerta de tu casa! Hacé tu pedido en Mc Donald’s en minutos, nosotros te lo llevamos…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pedidosya",
+                        "name": "PedidosYa",
+                        "id": 86568244,
+                        "id_str": "86568244",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 730021620,
+                "id_str": "730021620",
+                "name": "🔥ℳ♔",
+                "screen_name": "mineedyourlove",
+                "location": "Pilar, Argentina",
+                "description": "ℙ𝕣𝕠𝕕𝕦𝕔𝕥𝕠𝕣𝕒 𝕕𝕖 𝕄𝕠𝕕𝕒 • 𝙵𝚘𝚝𝚘́𝚐𝚛𝚊𝚏𝚊",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2220,
+                "friends_count": 107,
+                "listed_count": 10,
+                "created_at": "Wed Aug 01 05:09:35 +0000 2012",
+                "favourites_count": 22651,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 24640,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FF6699",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1125235443782619136/vlSCEGD4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125235443782619136/vlSCEGD4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/730021620/1553007975",
+                "profile_link_color": "B40B43",
+                "profile_sidebar_border_color": "CC3366",
+                "profile_sidebar_fill_color": "E5507E",
+                "profile_text_color": "362720",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Jan 09 12:41:41 +0000 2019",
+                "id": 1082980729359863800,
+                "id_str": "1082980729359863811",
+                "text": "Tus combos favoritos ahora llegan a la puerta de tu casa! Hacé tu pedido en Mc Donald’s en minutos, nosotros te lo… https://t.co/Btz4e0Njne",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/Btz4e0Njne",
+                            "expanded_url": "https://twitter.com/i/web/status/1082980729359863811",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.httpool.com\" rel=\"nofollow\">Httpool Ads</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 86568244,
+                    "id_str": "86568244",
+                    "name": "PedidosYa",
+                    "screen_name": "pedidosya",
+                    "location": "América Latina",
+                    "description": "Hoy puede tener otro gusto. 🥗🥙🌮🍔🍟🍕🍤Restaurates, mercados, bebidas, farmacias y mascotas.  Pedí lo que quieras de donde quieras.  #TeLlenaElCorazón.",
+                    "url": "https://t.co/2HJ8PoJQ6V",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/2HJ8PoJQ6V",
+                                    "expanded_url": "http://www.pedidosya.com/",
+                                    "display_url": "pedidosya.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 38446,
+                    "friends_count": 389,
+                    "listed_count": 52,
+                    "created_at": "Sat Oct 31 17:29:17 +0000 2009",
+                    "favourites_count": 8749,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 15504,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "EE4240",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/882180595157225472/-pxu0R7D_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882180595157225472/-pxu0R7D_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/86568244/1537282384",
+                    "profile_link_color": "EE4240",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "A0A0A0",
+                    "profile_text_color": "EB0000",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 198,
+                "favorite_count": 4670,
+                "favorited": false,
+                "retweeted": false,
+                "scopes": {
+                    "followers": false
+                },
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 198,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.038,
+        "max_id": 1130997713376546800,
+        "max_id_str": "1130997713376546816",
+        "next_results": "?max_id=1130995304436834305&q=%2523mcdonalds&include_entities=1",
+        "query": "%2523mcdonalds",
+        "refresh_url": "?since_id=1130997713376546816&q=%2523mcdonalds&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

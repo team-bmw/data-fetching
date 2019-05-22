@@ -5,10 +5,10 @@ const fs = require('fs');
 
 // Change out keys here:
 const client = new Twitter({
-  consumer_key: 'dTSiKVlAc4pSKVTKyejgpszRL',
-  consumer_secret: 'lSbNSmj0MJ8sJULpI0zJolYLEIk9f4BYFSvPaiEI0lsYTYWpIU',
-  access_token_key: '1130184699857522693-KGIrOBJTh8enA4lh3VJFCrSgoRZNVY',
-  access_token_secret: 'ixHm5MLcZuCalft1MuBXxy2xgTSo8GH7sYZDMt9zq8bJj',
+  consumer_key: '',
+  consumer_secret: '',
+  access_token_key: '',
+  access_token_secret: '',
 });
 
 // client.get('search/tweets', { q: '#mcdonalds' }, (error, tweets, response) => {

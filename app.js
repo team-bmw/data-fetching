@@ -6,7 +6,7 @@ const fs = require('fs');
 // Create a new Twitter object with consumer_key, consumer_secret, access_token_key, access_token_secret in ./.env.js
 const client = require('./.env.js');
 
-const fetchData = (endPoint, parameterObj) => {
+const fetchData = (endPoint, parameterObj, callback) => {
   client.get(endPoint, parameterObj, (error, data, response) => {
     if (error) console.log(error);
 
@@ -21,45 +21,19 @@ const fetchData = (endPoint, parameterObj) => {
 
       console.log('JSON file has been saved');
     });
+
+    callback(data);
   });
 };
 
-fetchData('search/tweets', { q: '#mcdonalds' });
-
-// client.get('search/tweets', { q: '#mcdonalds' }, (error, tweets, response) => {
-//   if (error) console.log(error);
-
-//   let tweetsJSON = JSON.stringify(tweets);
-
-//   fs.writeFile('search_tweets.json', tweetsJSON, 'utf8', err => {
-//     if (err) {
-//       console.log('An error occured while writing JSON');
-//       return console.log(err);
-//     }
-
-//     console.log('JSON file has been saved');
-//   });
-// });
-
-// client.get(
-//   'statuses/user_timeline',
-//   { screen_name: 'realDonaldTrump' },
-//   (error, tweets, response) => {
-//     if (error) console.log(error);
-
-//     let tweetsJSON = JSON.stringify(tweets);
-
-//     fs.writeFile('statuses_userTimeline.json', tweetsJSON, 'utf8', err => {
-//       if (err) {
-//         console.log('An error occured while writing JSON');
-//         return console.log(err);
-//       }
-
-//       console.log('JSON file has been saved');
-//     });
-//   }
-// );
-
-// const timeline = JSON.parse(require('./statuses.userTimeline.json'));
-
-// console.log(timeline.length);
+// fetchData('search/tweets', { q: '#mcdonalds' });
+fetchData(
+  'statuses/mentions_timeline',
+  {
+    screen_name: 'Twitter Dev',
+    count: 5,
+  },
+  tweets => {
+    console.log(tweets.length);
+  }
+);

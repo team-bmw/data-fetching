@@ -33,8 +33,12 @@ const fetchData = (endPoint, parameterObj, callback) => {
     });
 };
 
-// fetchData('search/tweets', { q: '#mcdonalds' }, tweets => console.log(tweets));
-fetchData('statuses/user_timeline', {
-  screen_name: 'realDonaldTrump',
-  count: 200,
-});
+fetchData(
+  'search/tweets',
+  { q: 'donaldTrump', count: 100, lang: 'en', tweet_mode: 'extended' },
+  tweets => console.log(tweets.statuses.length)
+);
+// fetchData('statuses/user_timeline', {
+//   screen_name: 'realDonaldTrump',
+//   count: 200,
+// });

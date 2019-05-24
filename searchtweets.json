@@ -1,413 +1,49 @@
 {
     "statuses": [
         {
-            "created_at": "Thu May 23 13:55:33 +0000 2019",
-            "id": 1131559292610465800,
-            "id_str": "1131559292610465792",
-            "text": "25 workers file sexual harassment claims against #McDonalds | Read more: https://t.co/nk7kKKPkts https://t.co/nffuKdDcaG",
+            "created_at": "Fri May 24 00:30:05 +0000 2019",
+            "id": 1131718979716829200,
+            "id_str": "1131718979716829184",
+            "text": "Guess who has fish and salmonella? Buh da buh ba ba, I'm throwing up. #McDonalds #fishandchips",
             "truncated": false,
             "entities": {
                 "hashtags": [
                     {
                         "text": "McDonalds",
                         "indices": [
-                            49,
-                            59
+                            70,
+                            80
+                        ]
+                    },
+                    {
+                        "text": "fishandchips",
+                        "indices": [
+                            81,
+                            94
                         ]
                     }
                 ],
                 "symbols": [],
                 "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/nk7kKKPkts",
-                        "expanded_url": "https://at.wftv.com/2WW9JK1",
-                        "display_url": "at.wftv.com/2WW9JK1",
-                        "indices": [
-                            73,
-                            96
-                        ]
-                    }
-                ],
-                "media": [
-                    {
-                        "id": 1131559280438652900,
-                        "id_str": "1131559280438652933",
-                        "indices": [
-                            97,
-                            120
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/D7QbK5jXsAUveSQ.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/D7QbK5jXsAUveSQ.jpg",
-                        "url": "https://t.co/nffuKdDcaG",
-                        "display_url": "pic.twitter.com/nffuKdDcaG",
-                        "expanded_url": "https://twitter.com/WFTV/status/1131559292610465792/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "extended_entities": {
-                "media": [
-                    {
-                        "id": 1131559280438652900,
-                        "id_str": "1131559280438652933",
-                        "indices": [
-                            97,
-                            120
-                        ],
-                        "media_url": "http://pbs.twimg.com/media/D7QbK5jXsAUveSQ.jpg",
-                        "media_url_https": "https://pbs.twimg.com/media/D7QbK5jXsAUveSQ.jpg",
-                        "url": "https://t.co/nffuKdDcaG",
-                        "display_url": "pic.twitter.com/nffuKdDcaG",
-                        "expanded_url": "https://twitter.com/WFTV/status/1131559292610465792/photo/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 640,
-                                "h": 360,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ]
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 15782216,
-                "id_str": "15782216",
-                "name": "WFTV Channel 9",
-                "screen_name": "WFTV",
-                "location": "Orlando",
-                "description": "Central Florida's @ABC news affiliate. Coverage you can count on for the latest news, weather, traffic and more. Tweeting us? You may be on air!",
-                "url": "http://t.co/3AtYslTnbN",
-                "entities": {
-                    "url": {
-                        "urls": [
-                            {
-                                "url": "http://t.co/3AtYslTnbN",
-                                "expanded_url": "http://www.wftv.com",
-                                "display_url": "wftv.com",
-                                "indices": [
-                                    0,
-                                    22
-                                ]
-                            }
-                        ]
-                    },
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 205514,
-                "friends_count": 2338,
-                "listed_count": 1776,
-                "created_at": "Fri Aug 08 19:57:49 +0000 2008",
-                "favourites_count": 2517,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": true,
-                "statuses_count": 180503,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "000000",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/991727529898725376/5yNY1X3p_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/991727529898725376/5yNY1X3p_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15782216/1541613418",
-                "profile_link_color": "0084B4",
-                "profile_sidebar_border_color": "FFFFFF",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "has_extended_profile": false,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false,
-                "translator_type": "none"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Thu May 23 13:54:27 +0000 2019",
-            "id": 1131559016646271000,
-            "id_str": "1131559016646270977",
-            "text": "@McDonalds, this video is so upsetting! When will you use your power for good and end #McChickenCruelty? It’s wrong… https://t.co/zVUPAaIvxD",
-            "truncated": true,
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "McChickenCruelty",
-                        "indices": [
-                            86,
-                            103
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "McDonalds",
-                        "name": "McDonald's",
-                        "id": 71026122,
-                        "id_str": "71026122",
-                        "indices": [
-                            0,
-                            10
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/zVUPAaIvxD",
-                        "expanded_url": "https://twitter.com/i/web/status/1131559016646270977",
-                        "display_url": "twitter.com/i/web/status/1…",
-                        "indices": [
-                            117,
-                            140
-                        ]
-                    }
-                ]
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": 71026122,
-            "in_reply_to_user_id_str": "71026122",
-            "in_reply_to_screen_name": "McDonalds",
-            "user": {
-                "id": 8395982,
-                "id_str": "8395982",
-                "name": "saavick",
-                "screen_name": "saavick",
-                "location": "Santiago, Chile",
-                "description": "boris cansadito",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 413,
-                "friends_count": 627,
-                "listed_count": 6,
-                "created_at": "Fri Aug 24 03:02:32 +0000 2007",
-                "favourites_count": 4654,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 24685,
-                "lang": "pt",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "0A0909",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_background_tile": true,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1125866530057728001/W2j8YG6W_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1125866530057728001/W2j8YG6W_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/8395982/1557262474",
-                "profile_link_color": "000000",
-                "profile_sidebar_border_color": "000000",
-                "profile_sidebar_fill_color": "E4EBF0",
-                "profile_text_color": "000000",
-                "profile_use_background_image": true,
-                "has_extended_profile": false,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false,
-                "translator_type": "none"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Thu May 23 13:52:54 +0000 2019",
-            "id": 1131558627288989700,
-            "id_str": "1131558627288989696",
-            "text": "RT @primality: @fightfor15 @BernieSanders @McDonalds #UnionsForAll or Bust. #FightFor15 #McDonalds #McStrike #Bernie2020",
-            "truncated": false,
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "UnionsForAll",
-                        "indices": [
-                            53,
-                            66
-                        ]
-                    },
-                    {
-                        "text": "FightFor15",
-                        "indices": [
-                            76,
-                            87
-                        ]
-                    },
-                    {
-                        "text": "McDonalds",
-                        "indices": [
-                            88,
-                            98
-                        ]
-                    },
-                    {
-                        "text": "McStrike",
-                        "indices": [
-                            99,
-                            108
-                        ]
-                    },
-                    {
-                        "text": "Bernie2020",
-                        "indices": [
-                            109,
-                            120
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "primality",
-                        "name": "primality",
-                        "id": 47899263,
-                        "id_str": "47899263",
-                        "indices": [
-                            3,
-                            13
-                        ]
-                    },
-                    {
-                        "screen_name": "fightfor15",
-                        "name": "Fight For 15",
-                        "id": 862430010,
-                        "id_str": "862430010",
-                        "indices": [
-                            15,
-                            26
-                        ]
-                    },
-                    {
-                        "screen_name": "BernieSanders",
-                        "name": "Bernie Sanders",
-                        "id": 216776631,
-                        "id_str": "216776631",
-                        "indices": [
-                            27,
-                            41
-                        ]
-                    },
-                    {
-                        "screen_name": "McDonalds",
-                        "name": "McDonald's",
-                        "id": 71026122,
-                        "id_str": "71026122",
-                        "indices": [
-                            42,
-                            52
-                        ]
-                    }
-                ],
                 "urls": []
             },
             "metadata": {
                 "iso_language_code": "en",
                 "result_type": "recent"
             },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 976917944,
-                "id_str": "976917944",
-                "name": "#Bernie2020 🌹🔇🌐",
-                "screen_name": "safemanusa",
-                "location": "",
-                "description": "Retired technical writer #RunBernieRun #GreenNewDeal #Bernie2020 #FreeIPM #ERAyes  #RoevWade #DSA  #UsNotMe #BWHW  #SinglePayer #M4A",
+                "id": 244333941,
+                "id_str": "244333941",
+                "name": "Pat Borders' Chew",
+                "screen_name": "PatBordersChew",
+                "location": "Ottawa, Ontario",
+                "description": "Sports aficionado, crossfitter, happy to be here. I tweet about life, sports, fitness and random thoughts. #TorontoSports #BondGeek Not Actually Pat Borders",
                 "url": null,
                 "entities": {
                     "description": {
@@ -415,34 +51,34 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 1790,
-                "friends_count": 1975,
-                "listed_count": 42,
-                "created_at": "Wed Nov 28 20:36:34 +0000 2012",
-                "favourites_count": 42110,
+                "followers_count": 1566,
+                "friends_count": 363,
+                "listed_count": 54,
+                "created_at": "Sat Jan 29 02:31:28 +0000 2011",
+                "favourites_count": 3332,
                 "utc_offset": null,
                 "time_zone": null,
-                "geo_enabled": false,
+                "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 39732,
+                "statuses_count": 69102,
                 "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
-                "profile_background_color": "C0DEED",
+                "profile_background_color": "FFFFFF",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1029811774458085377/vMxxqsNK_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029811774458085377/vMxxqsNK_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/976917944/1536172635",
-                "profile_link_color": "1DA1F2",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111617200107020288/A6fbDUIu_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111617200107020288/A6fbDUIu_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/244333941/1558204993",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
                 "profile_text_color": "333333",
                 "profile_use_background_image": true,
                 "has_extended_profile": true,
-                "default_profile": true,
+                "default_profile": false,
                 "default_profile_image": false,
                 "following": false,
                 "follow_request_sent": false,
@@ -451,178 +87,56 @@
             },
             "geo": null,
             "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweeted_status": {
-                "created_at": "Thu May 23 13:51:22 +0000 2019",
-                "id": 1131558238544048100,
-                "id_str": "1131558238544048128",
-                "text": "@fightfor15 @BernieSanders @McDonalds #UnionsForAll or Bust. #FightFor15 #McDonalds #McStrike #Bernie2020",
-                "truncated": false,
-                "entities": {
-                    "hashtags": [
-                        {
-                            "text": "UnionsForAll",
-                            "indices": [
-                                38,
-                                51
+            "place": {
+                "id": "38d5974e82ed1a6c",
+                "url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json",
+                "place_type": "city",
+                "name": "Ottawa",
+                "full_name": "Ottawa, Ontario",
+                "country_code": "CA",
+                "country": "Canada",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -76.353876,
+                                44.961937
+                            ],
+                            [
+                                -75.246407,
+                                44.961937
+                            ],
+                            [
+                                -75.246407,
+                                45.5356446
+                            ],
+                            [
+                                -76.353876,
+                                45.5356446
                             ]
-                        },
-                        {
-                            "text": "FightFor15",
-                            "indices": [
-                                61,
-                                72
-                            ]
-                        },
-                        {
-                            "text": "McDonalds",
-                            "indices": [
-                                73,
-                                83
-                            ]
-                        },
-                        {
-                            "text": "McStrike",
-                            "indices": [
-                                84,
-                                93
-                            ]
-                        },
-                        {
-                            "text": "Bernie2020",
-                            "indices": [
-                                94,
-                                105
-                            ]
-                        }
-                    ],
-                    "symbols": [],
-                    "user_mentions": [
-                        {
-                            "screen_name": "fightfor15",
-                            "name": "Fight For 15",
-                            "id": 862430010,
-                            "id_str": "862430010",
-                            "indices": [
-                                0,
-                                11
-                            ]
-                        },
-                        {
-                            "screen_name": "BernieSanders",
-                            "name": "Bernie Sanders",
-                            "id": 216776631,
-                            "id_str": "216776631",
-                            "indices": [
-                                12,
-                                26
-                            ]
-                        },
-                        {
-                            "screen_name": "McDonalds",
-                            "name": "McDonald's",
-                            "id": 71026122,
-                            "id_str": "71026122",
-                            "indices": [
-                                27,
-                                37
-                            ]
-                        }
-                    ],
-                    "urls": []
+                        ]
+                    ]
                 },
-                "metadata": {
-                    "iso_language_code": "en",
-                    "result_type": "recent"
-                },
-                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-                "in_reply_to_status_id": 1131547686622990300,
-                "in_reply_to_status_id_str": "1131547686622990337",
-                "in_reply_to_user_id": 862430010,
-                "in_reply_to_user_id_str": "862430010",
-                "in_reply_to_screen_name": "fightfor15",
-                "user": {
-                    "id": 47899263,
-                    "id_str": "47899263",
-                    "name": "primality",
-                    "screen_name": "primality",
-                    "location": "",
-                    "description": "",
-                    "url": null,
-                    "entities": {
-                        "description": {
-                            "urls": []
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 2364,
-                    "friends_count": 4978,
-                    "listed_count": 271,
-                    "created_at": "Wed Jun 17 08:32:19 +0000 2009",
-                    "favourites_count": 279181,
-                    "utc_offset": null,
-                    "time_zone": null,
-                    "geo_enabled": false,
-                    "verified": false,
-                    "statuses_count": 110307,
-                    "lang": "en",
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "C0DEED",
-                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                    "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/477131663130914816/FSKpelSR_normal.jpeg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/477131663130914816/FSKpelSR_normal.jpeg",
-                    "profile_link_color": "ABB8C2",
-                    "profile_sidebar_border_color": "C0DEED",
-                    "profile_sidebar_fill_color": "DDEEF6",
-                    "profile_text_color": "333333",
-                    "profile_use_background_image": true,
-                    "has_extended_profile": false,
-                    "default_profile": false,
-                    "default_profile_image": false,
-                    "following": false,
-                    "follow_request_sent": false,
-                    "notifications": false,
-                    "translator_type": "none"
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 1,
-                "favorite_count": 2,
-                "favorited": false,
-                "retweeted": false,
-                "lang": "en"
+                "attributes": {}
             },
+            "contributors": null,
             "is_quote_status": false,
-            "retweet_count": 1,
+            "retweet_count": 0,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
         },
         {
-            "created_at": "Thu May 23 13:52:41 +0000 2019",
-            "id": 1131558572393934800,
-            "id_str": "1131558572393934848",
-            "text": "@McDonalds, this video is so upsetting! When will you use your power for good and end #McChickenCruelty? It’s wrong… https://t.co/4DdShC7rxi",
+            "created_at": "Fri May 24 00:27:04 +0000 2019",
+            "id": 1131718218173698000,
+            "id_str": "1131718218173698048",
+            "text": "This is disgusting, @McDonalds! When will you catch up to @BurgerKing, @Starbucks, and so many others by banning bl… https://t.co/FRWzX1Ruxs",
             "truncated": true,
             "entities": {
-                "hashtags": [
-                    {
-                        "text": "McChickenCruelty",
-                        "indices": [
-                            86,
-                            103
-                        ]
-                    }
-                ],
+                "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
@@ -631,15 +145,35 @@
                         "id": 71026122,
                         "id_str": "71026122",
                         "indices": [
-                            0,
-                            10
+                            20,
+                            30
+                        ]
+                    },
+                    {
+                        "screen_name": "BurgerKing",
+                        "name": "Burger King",
+                        "id": 167421802,
+                        "id_str": "167421802",
+                        "indices": [
+                            58,
+                            69
+                        ]
+                    },
+                    {
+                        "screen_name": "Starbucks",
+                        "name": "Starbucks Coffee",
+                        "id": 30973,
+                        "id_str": "30973",
+                        "indices": [
+                            71,
+                            81
                         ]
                     }
                 ],
                 "urls": [
                     {
-                        "url": "https://t.co/4DdShC7rxi",
-                        "expanded_url": "https://twitter.com/i/web/status/1131558572393934848",
+                        "url": "https://t.co/FRWzX1Ruxs",
+                        "expanded_url": "https://twitter.com/i/web/status/1131718218173698048",
                         "display_url": "twitter.com/i/web/status/1…",
                         "indices": [
                             117,
@@ -655,16 +189,16 @@
             "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": 71026122,
-            "in_reply_to_user_id_str": "71026122",
-            "in_reply_to_screen_name": "McDonalds",
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
             "user": {
-                "id": 942054725159149600,
-                "id_str": "942054725159149569",
-                "name": "Patrícia Sloi Urbano",
-                "screen_name": "sloi_urbano",
-                "location": "Ipiranga, São Paulo",
-                "description": "São Paulo",
+                "id": 16032295,
+                "id_str": "16032295",
+                "name": "smobergfell",
+                "screen_name": "shauna_fjeld",
+                "location": "",
+                "description": "",
                 "url": null,
                 "entities": {
                     "description": {
@@ -672,17 +206,132 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 32,
-                "friends_count": 140,
-                "listed_count": 0,
-                "created_at": "Sat Dec 16 15:32:03 +0000 2017",
-                "favourites_count": 1123,
+                "followers_count": 15,
+                "friends_count": 38,
+                "listed_count": 1,
+                "created_at": "Thu Aug 28 20:32:47 +0000 2008",
+                "favourites_count": 1463,
                 "utc_offset": null,
                 "time_zone": null,
-                "geo_enabled": true,
+                "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 2387,
-                "lang": "pt",
+                "statuses_count": 455,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri May 24 00:26:00 +0000 2019",
+            "id": 1131717951801815000,
+            "id_str": "1131717951801815041",
+            "text": "Enough is enough! @McDonalds workers across the nation are protesting for better wages and working conditions. Keep… https://t.co/LBTqje4O7c",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            18,
+                            28
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/LBTqje4O7c",
+                        "expanded_url": "https://twitter.com/i/web/status/1131717951801815041",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 735580162318839800,
+                "id_str": "735580162318839809",
+                "name": "Diverse City",
+                "screen_name": "DiverseCityLLC",
+                "location": "Seattle, WA",
+                "description": "Representing the Underrepresented #DiversityAndInclusionConsulting #Training #Assessment #Coaching #DIVERSITYEXPERT",
+                "url": "https://t.co/aXhYtCkkB6",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/aXhYtCkkB6",
+                                "expanded_url": "http://diversecityllc.com",
+                                "display_url": "diversecityllc.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 372,
+                "friends_count": 168,
+                "listed_count": 12,
+                "created_at": "Wed May 25 21:15:51 +0000 2016",
+                "favourites_count": 861,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1075,
+                "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
@@ -690,15 +339,15 @@
                 "profile_background_image_url": null,
                 "profile_background_image_url_https": null,
                 "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1021053820468629505/mwzZiPAr_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021053820468629505/mwzZiPAr_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/942054725159149569/1532273078",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/735582111030218753/Is_BSSIy_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/735582111030218753/Is_BSSIy_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/735580162318839809/1464211870",
                 "profile_link_color": "1DA1F2",
                 "profile_sidebar_border_color": "C0DEED",
                 "profile_sidebar_fill_color": "DDEEF6",
                 "profile_text_color": "333333",
                 "profile_use_background_image": true,
-                "has_extended_profile": true,
+                "has_extended_profile": false,
                 "default_profile": true,
                 "default_profile_image": false,
                 "following": false,
@@ -719,79 +368,43 @@
             "lang": "en"
         },
         {
-            "created_at": "Thu May 23 13:51:22 +0000 2019",
-            "id": 1131558238544048100,
-            "id_str": "1131558238544048128",
-            "text": "@fightfor15 @BernieSanders @McDonalds #UnionsForAll or Bust. #FightFor15 #McDonalds #McStrike #Bernie2020",
+            "created_at": "Fri May 24 00:23:33 +0000 2019",
+            "id": 1131717335176208400,
+            "id_str": "1131717335176208384",
+            "text": "RT @TIMESUPNOW: CEO @SteveEasterbrk + @McDonaldsCorp: Workers like Brittany, Maribel &amp; Latarsha deserve dignity &amp; respect on the job. It’s…",
             "truncated": false,
             "entities": {
-                "hashtags": [
-                    {
-                        "text": "UnionsForAll",
-                        "indices": [
-                            38,
-                            51
-                        ]
-                    },
-                    {
-                        "text": "FightFor15",
-                        "indices": [
-                            61,
-                            72
-                        ]
-                    },
-                    {
-                        "text": "McDonalds",
-                        "indices": [
-                            73,
-                            83
-                        ]
-                    },
-                    {
-                        "text": "McStrike",
-                        "indices": [
-                            84,
-                            93
-                        ]
-                    },
-                    {
-                        "text": "Bernie2020",
-                        "indices": [
-                            94,
-                            105
-                        ]
-                    }
-                ],
+                "hashtags": [],
                 "symbols": [],
                 "user_mentions": [
                     {
-                        "screen_name": "fightfor15",
-                        "name": "Fight For 15",
-                        "id": 862430010,
-                        "id_str": "862430010",
+                        "screen_name": "TIMESUPNOW",
+                        "name": "TIME'S UP",
+                        "id": 941782988819521500,
+                        "id_str": "941782988819521536",
                         "indices": [
-                            0,
-                            11
+                            3,
+                            14
                         ]
                     },
                     {
-                        "screen_name": "BernieSanders",
-                        "name": "Bernie Sanders",
-                        "id": 216776631,
-                        "id_str": "216776631",
+                        "screen_name": "SteveEasterbrk",
+                        "name": "Steve Easterbrook",
+                        "id": 2872869473,
+                        "id_str": "2872869473",
                         "indices": [
-                            12,
-                            26
+                            20,
+                            35
                         ]
                     },
                     {
-                        "screen_name": "McDonalds",
-                        "name": "McDonald's",
-                        "id": 71026122,
-                        "id_str": "71026122",
+                        "screen_name": "McDonaldsCorp",
+                        "name": "McDonald's Corporation",
+                        "id": 111679943,
+                        "id_str": "111679943",
                         "indices": [
-                            27,
-                            37
+                            38,
+                            52
                         ]
                     }
                 ],
@@ -802,11 +415,11 @@
                 "result_type": "recent"
             },
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "in_reply_to_status_id": 1131547686622990300,
-            "in_reply_to_status_id_str": "1131547686622990337",
-            "in_reply_to_user_id": 862430010,
-            "in_reply_to_user_id_str": "862430010",
-            "in_reply_to_screen_name": "fightfor15",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
             "user": {
                 "id": 47899263,
                 "id_str": "47899263",
@@ -821,16 +434,16 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 2364,
-                "friends_count": 4978,
+                "followers_count": 2367,
+                "friends_count": 4977,
                 "listed_count": 271,
                 "created_at": "Wed Jun 17 08:32:19 +0000 2009",
-                "favourites_count": 279181,
+                "favourites_count": 279385,
                 "utc_offset": null,
                 "time_zone": null,
                 "geo_enabled": false,
                 "verified": false,
-                "statuses_count": 110307,
+                "statuses_count": 110388,
                 "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
@@ -858,573 +471,45 @@
             "coordinates": null,
             "place": null,
             "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 1,
-            "favorite_count": 2,
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Thu May 23 13:50:17 +0000 2019",
-            "id": 1131557966358954000,
-            "id_str": "1131557966358953984",
-            "text": "RT @dominicru: “If Amazon can raise their minimum wage to $15 there is no reason that #McDonalds, a company that took in $1.4bn in profit a…",
-            "truncated": false,
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "McDonalds",
-                        "indices": [
-                            86,
-                            96
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "dominicru",
-                        "name": "dominic rushe",
-                        "id": 18107015,
-                        "id_str": "18107015",
-                        "indices": [
-                            3,
-                            13
-                        ]
-                    }
-                ],
-                "urls": []
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 1102893201776615400,
-                "id_str": "1102893201776615424",
-                "name": "Mist Spinner 🌹",
-                "screen_name": "MistSpinner",
-                "location": "The Universe",
-                "description": "Unapologetic #DemocraticSocialist and #TreeHugger. Anti-establishment to core. Love and light to all. Deal with it.",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 106,
-                "friends_count": 122,
-                "listed_count": 0,
-                "created_at": "Tue Mar 05 11:26:44 +0000 2019",
-                "favourites_count": 7,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 5823,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "F5F8FA",
-                "profile_background_image_url": null,
-                "profile_background_image_url_https": null,
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1103098371353571329/KsyvOLXl_normal.png",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103098371353571329/KsyvOLXl_normal.png",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1102893201776615424/1551835144",
-                "profile_link_color": "1DA1F2",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "has_extended_profile": false,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false,
-                "translator_type": "none"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
             "retweeted_status": {
-                "created_at": "Thu May 23 13:27:03 +0000 2019",
-                "id": 1131552121814491100,
-                "id_str": "1131552121814491136",
-                "text": "“If Amazon can raise their minimum wage to $15 there is no reason that #McDonalds, a company that took in $1.4bn in… https://t.co/Zd7nCHQusd",
-                "truncated": true,
-                "entities": {
-                    "hashtags": [
-                        {
-                            "text": "McDonalds",
-                            "indices": [
-                                71,
-                                81
-                            ]
-                        }
-                    ],
-                    "symbols": [],
-                    "user_mentions": [],
-                    "urls": [
-                        {
-                            "url": "https://t.co/Zd7nCHQusd",
-                            "expanded_url": "https://twitter.com/i/web/status/1131552121814491136",
-                            "display_url": "twitter.com/i/web/status/1…",
-                            "indices": [
-                                117,
-                                140
-                            ]
-                        }
-                    ]
-                },
-                "metadata": {
-                    "iso_language_code": "en",
-                    "result_type": "recent"
-                },
-                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-                "in_reply_to_status_id": null,
-                "in_reply_to_status_id_str": null,
-                "in_reply_to_user_id": null,
-                "in_reply_to_user_id_str": null,
-                "in_reply_to_screen_name": null,
-                "user": {
-                    "id": 18107015,
-                    "id_str": "18107015",
-                    "name": "dominic rushe",
-                    "screen_name": "dominicru",
-                    "location": "The Chthulucene",
-                    "description": "@GuardianUS US business editor, composed of Eros and dust",
-                    "url": "https://t.co/ZG0ZwZQ6bo",
-                    "entities": {
-                        "url": {
-                            "urls": [
-                                {
-                                    "url": "https://t.co/ZG0ZwZQ6bo",
-                                    "expanded_url": "http://www.theguardian.com/us",
-                                    "display_url": "theguardian.com/us",
-                                    "indices": [
-                                        0,
-                                        23
-                                    ]
-                                }
-                            ]
-                        },
-                        "description": {
-                            "urls": []
-                        }
-                    },
-                    "protected": false,
-                    "followers_count": 6278,
-                    "friends_count": 4072,
-                    "listed_count": 315,
-                    "created_at": "Sat Dec 13 23:23:06 +0000 2008",
-                    "favourites_count": 5287,
-                    "utc_offset": null,
-                    "time_zone": null,
-                    "geo_enabled": true,
-                    "verified": true,
-                    "statuses_count": 9402,
-                    "lang": "en",
-                    "contributors_enabled": false,
-                    "is_translator": false,
-                    "is_translation_enabled": false,
-                    "profile_background_color": "9AE4E8",
-                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
-                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
-                    "profile_background_tile": true,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/1074698439227817984/6bjSGcon_normal.jpg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074698439227817984/6bjSGcon_normal.jpg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18107015/1360344253",
-                    "profile_link_color": "1B95E0",
-                    "profile_sidebar_border_color": "FFFFFF",
-                    "profile_sidebar_fill_color": "7AC3EE",
-                    "profile_text_color": "3D1957",
-                    "profile_use_background_image": true,
-                    "has_extended_profile": false,
-                    "default_profile": false,
-                    "default_profile_image": false,
-                    "following": false,
-                    "follow_request_sent": false,
-                    "notifications": false,
-                    "translator_type": "none"
-                },
-                "geo": null,
-                "coordinates": null,
-                "place": null,
-                "contributors": null,
-                "is_quote_status": false,
-                "retweet_count": 12,
-                "favorite_count": 20,
-                "favorited": false,
-                "retweeted": false,
-                "possibly_sensitive": false,
-                "lang": "en"
-            },
-            "is_quote_status": false,
-            "retweet_count": 12,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Thu May 23 13:47:59 +0000 2019",
-            "id": 1131557388782252000,
-            "id_str": "1131557388782252037",
-            "text": "I stand with all of #Mcdonalds protestors. U should have a living wage for the amount of money this corporation mak… https://t.co/zA95xd1mvu",
-            "truncated": true,
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "Mcdonalds",
-                        "indices": [
-                            20,
-                            30
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [],
-                "urls": [
-                    {
-                        "url": "https://t.co/zA95xd1mvu",
-                        "expanded_url": "https://twitter.com/i/web/status/1131557388782252037",
-                        "display_url": "twitter.com/i/web/status/1…",
-                        "indices": [
-                            117,
-                            140
-                        ]
-                    }
-                ]
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 782778760022007800,
-                "id_str": "782778760022007809",
-                "name": "EatDuo 🥣",
-                "screen_name": "EatDuo",
-                "location": "",
-                "description": "Ehhhhhhhh what’s up",
-                "url": "https://t.co/mUZ4IwH9rn",
-                "entities": {
-                    "url": {
-                        "urls": [
-                            {
-                                "url": "https://t.co/mUZ4IwH9rn",
-                                "expanded_url": "http://trumpdonald.org",
-                                "display_url": "trumpdonald.org",
-                                "indices": [
-                                    0,
-                                    23
-                                ]
-                            }
-                        ]
-                    },
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 102,
-                "friends_count": 259,
-                "listed_count": 1,
-                "created_at": "Mon Oct 03 03:06:14 +0000 2016",
-                "favourites_count": 2979,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": false,
-                "verified": false,
-                "statuses_count": 4458,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "F5F8FA",
-                "profile_background_image_url": null,
-                "profile_background_image_url_https": null,
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1106066883390783488/Y0GF6mGQ_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106066883390783488/Y0GF6mGQ_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/782778760022007809/1551238488",
-                "profile_link_color": "1DA1F2",
-                "profile_sidebar_border_color": "C0DEED",
-                "profile_sidebar_fill_color": "DDEEF6",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "has_extended_profile": false,
-                "default_profile": true,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false,
-                "translator_type": "none"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Thu May 23 13:47:58 +0000 2019",
-            "id": 1131557386370584600,
-            "id_str": "1131557386370584577",
-            "text": "@McDonalds, this video is so upsetting! When will you use your power for good and end #McChickenCruelty? It’s wrong… https://t.co/LEsogvkTwW",
-            "truncated": true,
-            "entities": {
-                "hashtags": [
-                    {
-                        "text": "McChickenCruelty",
-                        "indices": [
-                            86,
-                            103
-                        ]
-                    }
-                ],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "McDonalds",
-                        "name": "McDonald's",
-                        "id": 71026122,
-                        "id_str": "71026122",
-                        "indices": [
-                            0,
-                            10
-                        ]
-                    }
-                ],
-                "urls": [
-                    {
-                        "url": "https://t.co/LEsogvkTwW",
-                        "expanded_url": "https://twitter.com/i/web/status/1131557386370584577",
-                        "display_url": "twitter.com/i/web/status/1…",
-                        "indices": [
-                            117,
-                            140
-                        ]
-                    }
-                ]
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": 71026122,
-            "in_reply_to_user_id_str": "71026122",
-            "in_reply_to_screen_name": "McDonalds",
-            "user": {
-                "id": 56407288,
-                "id_str": "56407288",
-                "name": "Lana taróloga",
-                "screen_name": "lanatarologa",
-                "location": "praia grande",
-                "description": "TARÓLOGA, TERAPEUTA REIKIANA, trabalho com o poder dos salmos,anjos, com baralho cigano, com numerologia.Tudo para ajudar  vc!!",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 219,
-                "friends_count": 421,
-                "listed_count": 9,
-                "created_at": "Mon Jul 13 15:54:12 +0000 2009",
-                "favourites_count": 939,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 632,
-                "lang": "pt",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "C6E2EE",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
-                "profile_background_tile": true,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/845263814903955456/JE9RbHmT_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/845263814903955456/JE9RbHmT_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/56407288/1397595328",
-                "profile_link_color": "6A3DBD",
-                "profile_sidebar_border_color": "C6E2EE",
-                "profile_sidebar_fill_color": "DAECF4",
-                "profile_text_color": "663B12",
-                "profile_use_background_image": true,
-                "has_extended_profile": true,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false,
-                "translator_type": "none"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "is_quote_status": false,
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "favorited": false,
-            "retweeted": false,
-            "possibly_sensitive": false,
-            "lang": "en"
-        },
-        {
-            "created_at": "Thu May 23 13:47:38 +0000 2019",
-            "id": 1131557302358728700,
-            "id_str": "1131557302358728704",
-            "text": "RT @ImNotLovinMcD: 🗣 RT if you agree that there’s no excuse for animal abuse. Like if you believe that @McDonaldsCorp needs to adopt a mean…",
-            "truncated": false,
-            "entities": {
-                "hashtags": [],
-                "symbols": [],
-                "user_mentions": [
-                    {
-                        "screen_name": "ImNotLovinMcD",
-                        "name": "ImNotLovinIt",
-                        "id": 838862231060287500,
-                        "id_str": "838862231060287489",
-                        "indices": [
-                            3,
-                            17
-                        ]
-                    },
-                    {
-                        "screen_name": "McDonaldsCorp",
-                        "name": "McDonald's Corporation",
-                        "id": 111679943,
-                        "id_str": "111679943",
-                        "indices": [
-                            103,
-                            117
-                        ]
-                    }
-                ],
-                "urls": []
-            },
-            "metadata": {
-                "iso_language_code": "en",
-                "result_type": "recent"
-            },
-            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
-            "user": {
-                "id": 575847627,
-                "id_str": "575847627",
-                "name": "Steve Lee, Sr.",
-                "screen_name": "SteveLeeSr",
-                "location": "Guayaquil, Ecuador",
-                "description": "Progressive Politics, exRepublican, ExDemocrat, exMormon, exFundamentalist, , exPat, exHusband \nSci-Fi Enthusiast, Cancer Survivor,",
-                "url": null,
-                "entities": {
-                    "description": {
-                        "urls": []
-                    }
-                },
-                "protected": false,
-                "followers_count": 3174,
-                "friends_count": 3187,
-                "listed_count": 287,
-                "created_at": "Wed May 09 23:41:18 +0000 2012",
-                "favourites_count": 3535,
-                "utc_offset": null,
-                "time_zone": null,
-                "geo_enabled": true,
-                "verified": false,
-                "statuses_count": 46636,
-                "lang": "en",
-                "contributors_enabled": false,
-                "is_translator": false,
-                "is_translation_enabled": false,
-                "profile_background_color": "022330",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-                "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/913937820158451713/6Dd3AR9M_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/913937820158451713/6Dd3AR9M_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/575847627/1398820081",
-                "profile_link_color": "1B00B3",
-                "profile_sidebar_border_color": "A8C7F7",
-                "profile_sidebar_fill_color": "C0DFEC",
-                "profile_text_color": "333333",
-                "profile_use_background_image": true,
-                "has_extended_profile": false,
-                "default_profile": false,
-                "default_profile_image": false,
-                "following": false,
-                "follow_request_sent": false,
-                "notifications": false,
-                "translator_type": "none"
-            },
-            "geo": null,
-            "coordinates": null,
-            "place": null,
-            "contributors": null,
-            "retweeted_status": {
-                "created_at": "Wed May 22 22:58:22 +0000 2019",
-                "id": 1131333511581904900,
-                "id_str": "1131333511581904897",
-                "text": "🗣 RT if you agree that there’s no excuse for animal abuse. Like if you believe that @McDonaldsCorp needs to adopt a… https://t.co/7V0xqmEL7s",
+                "created_at": "Thu May 23 19:02:37 +0000 2019",
+                "id": 1131636568559575000,
+                "id_str": "1131636568559575041",
+                "text": "CEO @SteveEasterbrk + @McDonaldsCorp: Workers like Brittany, Maribel &amp; Latarsha deserve dignity &amp; respect on the jo… https://t.co/IpmbywutAL",
                 "truncated": true,
                 "entities": {
                     "hashtags": [],
                     "symbols": [],
                     "user_mentions": [
                         {
+                            "screen_name": "SteveEasterbrk",
+                            "name": "Steve Easterbrook",
+                            "id": 2872869473,
+                            "id_str": "2872869473",
+                            "indices": [
+                                4,
+                                19
+                            ]
+                        },
+                        {
                             "screen_name": "McDonaldsCorp",
                             "name": "McDonald's Corporation",
                             "id": 111679943,
                             "id_str": "111679943",
                             "indices": [
-                                84,
-                                98
+                                22,
+                                36
                             ]
                         }
                     ],
                     "urls": [
                         {
-                            "url": "https://t.co/7V0xqmEL7s",
-                            "expanded_url": "https://twitter.com/i/web/status/1131333511581904897",
+                            "url": "https://t.co/IpmbywutAL",
+                            "expanded_url": "https://twitter.com/i/web/status/1131636568559575041",
                             "display_url": "twitter.com/i/web/status/1…",
                             "indices": [
-                                117,
-                                140
+                                125,
+                                148
                             ]
                         }
                     ]
@@ -1433,27 +518,27 @@
                     "iso_language_code": "en",
                     "result_type": "recent"
                 },
-                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
                 "in_reply_to_status_id": null,
                 "in_reply_to_status_id_str": null,
                 "in_reply_to_user_id": null,
                 "in_reply_to_user_id_str": null,
                 "in_reply_to_screen_name": null,
                 "user": {
-                    "id": 838862231060287500,
-                    "id_str": "838862231060287489",
-                    "name": "ImNotLovinIt",
-                    "screen_name": "ImNotLovinMcD",
-                    "location": "Chicago, IL",
-                    "description": "Consumers across the country are demanding better animal welfare standards for the millions of chickens in McDonald's supply chain.",
-                    "url": "https://t.co/IMm3CQmv5P",
+                    "id": 941782988819521500,
+                    "id_str": "941782988819521536",
+                    "name": "TIME'S UP",
+                    "screen_name": "TIMESUPNOW",
+                    "location": "",
+                    "description": "TIME’S UP™ is an organization that insists on safe, fair & dignified work for women of all kinds.",
+                    "url": "https://t.co/VaCDHtHbUu",
                     "entities": {
                         "url": {
                             "urls": [
                                 {
-                                    "url": "https://t.co/IMm3CQmv5P",
-                                    "expanded_url": "http://www.ImNotLovinIt.com",
-                                    "display_url": "ImNotLovinIt.com",
+                                    "url": "https://t.co/VaCDHtHbUu",
+                                    "expanded_url": "http://timesupnow.com",
+                                    "display_url": "timesupnow.com",
                                     "indices": [
                                         0,
                                         23
@@ -1466,16 +551,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 15335,
-                    "friends_count": 14667,
-                    "listed_count": 66,
-                    "created_at": "Mon Mar 06 21:21:56 +0000 2017",
-                    "favourites_count": 13256,
+                    "followers_count": 122240,
+                    "friends_count": 476,
+                    "listed_count": 540,
+                    "created_at": "Fri Dec 15 21:32:16 +0000 2017",
+                    "favourites_count": 1110,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
-                    "verified": false,
-                    "statuses_count": 2614,
+                    "verified": true,
+                    "statuses_count": 1966,
                     "lang": "en",
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -1484,10 +569,10 @@
                     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                     "profile_background_tile": false,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/978000688876748800/RcrCd4o6_normal.jpg",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/978000688876748800/RcrCd4o6_normal.jpg",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/838862231060287489/1536163222",
-                    "profile_link_color": "FE2E2E",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1130533645830148096/kKYW94PQ_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130533645830148096/kKYW94PQ_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/941782988819521536/1558375213",
+                    "profile_link_color": "000000",
                     "profile_sidebar_border_color": "000000",
                     "profile_sidebar_fill_color": "000000",
                     "profile_text_color": "000000",
@@ -1505,24 +590,247 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 50,
-                "favorite_count": 68,
+                "retweet_count": 38,
+                "favorite_count": 52,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "en"
             },
             "is_quote_status": false,
-            "retweet_count": 50,
+            "retweet_count": 38,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
         },
         {
-            "created_at": "Thu May 23 13:43:30 +0000 2019",
-            "id": 1131556261688938500,
-            "id_str": "1131556261688938496",
+            "created_at": "Fri May 24 00:22:14 +0000 2019",
+            "id": 1131717002903482400,
+            "id_str": "1131717002903482368",
+            "text": "Happy meal aayegi! #SpecAd for @mcdonaldsindia @narendramodi #AccheDin #ElectionResults2019 #Mcdonalds https://t.co/7Xyttmwgmz",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "SpecAd",
+                        "indices": [
+                            19,
+                            26
+                        ]
+                    },
+                    {
+                        "text": "AccheDin",
+                        "indices": [
+                            61,
+                            70
+                        ]
+                    },
+                    {
+                        "text": "ElectionResults2019",
+                        "indices": [
+                            71,
+                            91
+                        ]
+                    },
+                    {
+                        "text": "Mcdonalds",
+                        "indices": [
+                            92,
+                            102
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "mcdonaldsindia",
+                        "name": "McDonald's India",
+                        "id": 918869826,
+                        "id_str": "918869826",
+                        "indices": [
+                            31,
+                            46
+                        ]
+                    },
+                    {
+                        "screen_name": "narendramodi",
+                        "name": "Narendra Modi",
+                        "id": 18839785,
+                        "id_str": "18839785",
+                        "indices": [
+                            47,
+                            60
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1131716999208423400,
+                        "id_str": "1131716999208423424",
+                        "indices": [
+                            103,
+                            126
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D7SqnVwW0AAMlqv.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D7SqnVwW0AAMlqv.jpg",
+                        "url": "https://t.co/7Xyttmwgmz",
+                        "display_url": "pic.twitter.com/7Xyttmwgmz",
+                        "expanded_url": "https://twitter.com/AdHappyness/status/1131717002903482368/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1131716999208423400,
+                        "id_str": "1131716999208423424",
+                        "indices": [
+                            103,
+                            126
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D7SqnVwW0AAMlqv.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D7SqnVwW0AAMlqv.jpg",
+                        "url": "https://t.co/7Xyttmwgmz",
+                        "display_url": "pic.twitter.com/7Xyttmwgmz",
+                        "expanded_url": "https://twitter.com/AdHappyness/status/1131717002903482368/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 1024,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 1024,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 792085594709123100,
+                "id_str": "792085594709123072",
+                "name": "Advertising Happyness",
+                "screen_name": "AdHappyness",
+                "location": "",
+                "description": "Advertising is about spreading your message and Happ’Y’ness is about bringing smiles and contentment to the life of people. So, Advertising Happyness.",
+                "url": "https://t.co/jHjj0RmVc2",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/jHjj0RmVc2",
+                                "expanded_url": "http://advertisinghappyness.wordpress.com",
+                                "display_url": "advertisinghappyness.wordpress.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 44,
+                "friends_count": 277,
+                "listed_count": 0,
+                "created_at": "Fri Oct 28 19:28:17 +0000 2016",
+                "favourites_count": 44,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 86,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/822171496562839553/Hyr3L1zN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/822171496562839553/Hyr3L1zN_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/792085594709123072/1484856050",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri May 24 00:22:03 +0000 2019",
+            "id": 1131716955830870000,
+            "id_str": "1131716955830870016",
             "text": "RT @dominicru: “If Amazon can raise their minimum wage to $15 there is no reason that #McDonalds, a company that took in $1.4bn in profit a…",
             "truncated": false,
             "entities": {
@@ -1554,67 +862,54 @@
                 "iso_language_code": "en",
                 "result_type": "recent"
             },
-            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "in_reply_to_status_id": null,
             "in_reply_to_status_id_str": null,
             "in_reply_to_user_id": null,
             "in_reply_to_user_id_str": null,
             "in_reply_to_screen_name": null,
             "user": {
-                "id": 379297850,
-                "id_str": "379297850",
-                "name": "nicole b",
-                "screen_name": "Stellarosity",
+                "id": 738899642679582700,
+                "id_str": "738899642679582720",
+                "name": "Bernie 2020 🌹🌻",
+                "screen_name": "Socialist2410",
                 "location": "",
-                "description": "virtual photographer · assassin's creed odyssey & origins · paladins · overwatch · dylan ·",
-                "url": "https://t.co/on0KOp2G73",
+                "description": "#ThirdParty #Socialist #BLM #Atheist #AbolishICE #PoliceReform #GunReform #FreePalestine #Women’sRight2Choose #Greenplanet #LatinxsforBernie #Bernie2020",
+                "url": null,
                 "entities": {
-                    "url": {
-                        "urls": [
-                            {
-                                "url": "https://t.co/on0KOp2G73",
-                                "expanded_url": "http://twitch.tv/Stellarosity",
-                                "display_url": "twitch.tv/Stellarosity",
-                                "indices": [
-                                    0,
-                                    23
-                                ]
-                            }
-                        ]
-                    },
                     "description": {
                         "urls": []
                     }
                 },
                 "protected": false,
-                "followers_count": 410,
-                "friends_count": 350,
-                "listed_count": 1,
-                "created_at": "Sat Sep 24 18:16:01 +0000 2011",
-                "favourites_count": 41287,
+                "followers_count": 1312,
+                "friends_count": 2199,
+                "listed_count": 7,
+                "created_at": "Sat Jun 04 01:06:18 +0000 2016",
+                "favourites_count": 58984,
                 "utc_offset": null,
                 "time_zone": null,
-                "geo_enabled": false,
+                "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 5108,
+                "statuses_count": 39726,
                 "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
-                "profile_background_color": "ACDED6",
-                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
                 "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1112216613229682688/f3TXY8Up_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112216613229682688/f3TXY8Up_normal.jpg",
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/379297850/1555860124",
-                "profile_link_color": "038543",
-                "profile_sidebar_border_color": "EEEEEE",
-                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1102031160543043584/QtWi_aTw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102031160543043584/QtWi_aTw_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/738899642679582720/1555812707",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
                 "profile_text_color": "333333",
                 "profile_use_background_image": true,
-                "has_extended_profile": true,
-                "default_profile": false,
+                "has_extended_profile": false,
+                "default_profile": true,
                 "default_profile_image": false,
                 "following": false,
                 "follow_request_sent": false,
@@ -1692,16 +987,16 @@
                         }
                     },
                     "protected": false,
-                    "followers_count": 6278,
-                    "friends_count": 4072,
+                    "followers_count": 6281,
+                    "friends_count": 4078,
                     "listed_count": 315,
                     "created_at": "Sat Dec 13 23:23:06 +0000 2008",
-                    "favourites_count": 5287,
+                    "favourites_count": 5294,
                     "utc_offset": null,
                     "time_zone": null,
                     "geo_enabled": true,
                     "verified": true,
-                    "statuses_count": 9402,
+                    "statuses_count": 9404,
                     "lang": "en",
                     "contributors_enabled": false,
                     "is_translator": false,
@@ -1731,42 +1026,45 @@
                 "place": null,
                 "contributors": null,
                 "is_quote_status": false,
-                "retweet_count": 12,
-                "favorite_count": 20,
+                "retweet_count": 57,
+                "favorite_count": 103,
                 "favorited": false,
                 "retweeted": false,
                 "possibly_sensitive": false,
                 "lang": "en"
             },
             "is_quote_status": false,
-            "retweet_count": 12,
+            "retweet_count": 57,
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
             "lang": "en"
         },
         {
-            "created_at": "Thu May 23 13:43:23 +0000 2019",
-            "id": 1131556231175442400,
-            "id_str": "1131556231175442442",
-            "text": "McDonald’s, this video is so upsetting! When will you use your power for good and end #McChickenCruelty? It’s wrong… https://t.co/ga7iwn8lgt",
+            "created_at": "Fri May 24 00:17:41 +0000 2019",
+            "id": 1131715858315796500,
+            "id_str": "1131715858315796481",
+            "text": "@SpeakerPelosi Sounds a lot like: When the \"extremely stable genius\" starts acting more like an adult and clean his… https://t.co/Erw4GulIAR",
             "truncated": true,
             "entities": {
-                "hashtags": [
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
                     {
-                        "text": "McChickenCruelty",
+                        "screen_name": "SpeakerPelosi",
+                        "name": "Nancy Pelosi",
+                        "id": 15764644,
+                        "id_str": "15764644",
                         "indices": [
-                            86,
-                            103
+                            0,
+                            14
                         ]
                     }
                 ],
-                "symbols": [],
-                "user_mentions": [],
                 "urls": [
                     {
-                        "url": "https://t.co/ga7iwn8lgt",
-                        "expanded_url": "https://twitter.com/i/web/status/1131556231175442442",
+                        "url": "https://t.co/Erw4GulIAR",
+                        "expanded_url": "https://twitter.com/i/web/status/1131715858315796481",
                         "display_url": "twitter.com/i/web/status/1…",
                         "indices": [
                             117,
@@ -1779,18 +1077,18 @@
                 "iso_language_code": "en",
                 "result_type": "recent"
             },
-            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-            "in_reply_to_status_id": null,
-            "in_reply_to_status_id_str": null,
-            "in_reply_to_user_id": null,
-            "in_reply_to_user_id_str": null,
-            "in_reply_to_screen_name": null,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1131660259959955500,
+            "in_reply_to_status_id_str": "1131660259959955457",
+            "in_reply_to_user_id": 15764644,
+            "in_reply_to_user_id_str": "15764644",
+            "in_reply_to_screen_name": "SpeakerPelosi",
             "user": {
-                "id": 1092079984909471700,
-                "id_str": "1092079984909471744",
-                "name": "Alexa",
-                "screen_name": "Alexilda2",
-                "location": "",
+                "id": 317197311,
+                "id_str": "317197311",
+                "name": "Devon Smith",
+                "screen_name": "daspiano26",
+                "location": "Miami, FL",
                 "description": "",
                 "url": null,
                 "entities": {
@@ -1799,26 +1097,26 @@
                     }
                 },
                 "protected": false,
-                "followers_count": 0,
-                "friends_count": 9,
-                "listed_count": 0,
-                "created_at": "Sun Feb 03 15:18:53 +0000 2019",
-                "favourites_count": 13,
+                "followers_count": 45,
+                "friends_count": 64,
+                "listed_count": 1,
+                "created_at": "Tue Jun 14 15:41:11 +0000 2011",
+                "favourites_count": 34,
                 "utc_offset": null,
                 "time_zone": null,
-                "geo_enabled": false,
+                "geo_enabled": true,
                 "verified": false,
-                "statuses_count": 3,
+                "statuses_count": 989,
                 "lang": "en",
                 "contributors_enabled": false,
                 "is_translator": false,
                 "is_translation_enabled": false,
-                "profile_background_color": "F5F8FA",
-                "profile_background_image_url": null,
-                "profile_background_image_url_https": null,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_background_tile": false,
-                "profile_image_url": "http://pbs.twimg.com/profile_images/1092081069006950405/wdBTSi9b_normal.jpg",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092081069006950405/wdBTSi9b_normal.jpg",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/540757034036371456/QkGC4x7__normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/540757034036371456/QkGC4x7__normal.jpeg",
                 "profile_link_color": "1DA1F2",
                 "profile_sidebar_border_color": "C0DEED",
                 "profile_sidebar_fill_color": "DDEEF6",
@@ -1841,17 +1139,720 @@
             "favorite_count": 0,
             "favorited": false,
             "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri May 24 00:12:08 +0000 2019",
+            "id": 1131714459985154000,
+            "id_str": "1131714459985154048",
+            "text": "@McDonalds @DailyNews @gofooji #Mcdonalds +#Sweepstakes.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Mcdonalds",
+                        "indices": [
+                            31,
+                            41
+                        ]
+                    },
+                    {
+                        "text": "Sweepstakes",
+                        "indices": [
+                            43,
+                            55
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "screen_name": "DailyNews",
+                        "name": "DailyNews",
+                        "id": 3120901,
+                        "id_str": "3120901",
+                        "indices": [
+                            11,
+                            21
+                        ]
+                    },
+                    {
+                        "screen_name": "gofooji",
+                        "name": "Fooji",
+                        "id": 3256735031,
+                        "id_str": "3256735031",
+                        "indices": [
+                            22,
+                            30
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 71026122,
+            "in_reply_to_user_id_str": "71026122",
+            "in_reply_to_screen_name": "McDonalds",
+            "user": {
+                "id": 248106370,
+                "id_str": "248106370",
+                "name": "Tiffany payne",
+                "screen_name": "tiffblueeyes29",
+                "location": "Ky,usa",
+                "description": "Married",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 44,
+                "friends_count": 243,
+                "listed_count": 0,
+                "created_at": "Sun Feb 06 07:49:25 +0000 2011",
+                "favourites_count": 155,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 443,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1123771252735455233/WwBiTAyi_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123771252735455233/WwBiTAyi_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "und"
+        },
+        {
+            "created_at": "Fri May 24 00:05:41 +0000 2019",
+            "id": 1131712838693785600,
+            "id_str": "1131712838693785600",
+            "text": "Finally got a chance to try the #MinuteMaidPeachSlush from @McDonalds 🥰🥰🥰 It tastes soooo good!! #McDonalds… https://t.co/VZ7KxYNNs9",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MinuteMaidPeachSlush",
+                        "indices": [
+                            32,
+                            53
+                        ]
+                    },
+                    {
+                        "text": "McDonalds",
+                        "indices": [
+                            97,
+                            107
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            59,
+                            69
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/VZ7KxYNNs9",
+                        "expanded_url": "https://twitter.com/i/web/status/1131712838693785600",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            109,
+                            132
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 831153440,
+                "id_str": "831153440",
+                "name": "KASSIO",
+                "screen_name": "kassi0_",
+                "location": "New York, NY",
+                "description": "Creative Writer | Comic Writer | RetroGamer | Youtuber: KASSIO’s KATALOG on “HERO-SET!”",
+                "url": "https://t.co/DqP9goMw3J",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/DqP9goMw3J",
+                                "expanded_url": "http://www.youtube.com/c/heroset",
+                                "display_url": "youtube.com/c/heroset",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 505,
+                "friends_count": 73,
+                "listed_count": 9,
+                "created_at": "Tue Sep 18 14:17:09 +0000 2012",
+                "favourites_count": 5859,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 9332,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1107861757597573120/2eBGM0iX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107861757597573120/2eBGM0iX_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/831153440/1552969802",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "27485069891a7938",
+                "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json",
+                "place_type": "admin",
+                "name": "New York",
+                "full_name": "New York, NY",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -74.255641,
+                                40.495865
+                            ],
+                            [
+                                -73.699793,
+                                40.495865
+                            ],
+                            [
+                                -73.699793,
+                                40.91533
+                            ],
+                            [
+                                -74.255641,
+                                40.91533
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
             "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri May 24 00:02:47 +0000 2019",
+            "id": 1131712109086158800,
+            "id_str": "1131712109086158849",
+            "text": "#McDonalds employees stand up to #sexualharassment.\nhttps://t.co/2FBOio6wLC #SmithMullin",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "McDonalds",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    },
+                    {
+                        "text": "sexualharassment",
+                        "indices": [
+                            33,
+                            50
+                        ]
+                    },
+                    {
+                        "text": "SmithMullin",
+                        "indices": [
+                            76,
+                            88
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/2FBOio6wLC",
+                        "expanded_url": "https://www.thecut.com/2019/05/mcdonalds-workers-say-times-up-on-sexual-harassment.html",
+                        "display_url": "thecut.com/2019/05/mcdona…",
+                        "indices": [
+                            52,
+                            75
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 576297758,
+                "id_str": "576297758",
+                "name": "Smith Mullin",
+                "screen_name": "SmithMullin",
+                "location": "",
+                "description": "Smith Mullin is a law firm representing employees who are victims of harassment, retaliation, or discrimination. http://t.co/oqa2hOms",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/oqa2hOms",
+                                "expanded_url": "http://smithmullin.com/",
+                                "display_url": "smithmullin.com",
+                                "indices": [
+                                    113,
+                                    133
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1943,
+                "friends_count": 132,
+                "listed_count": 19,
+                "created_at": "Thu May 10 14:56:46 +0000 2012",
+                "favourites_count": 3165,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6919,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1027258513331036161/-58SHnOq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027258513331036161/-58SHnOq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/576297758/1544652250",
+                "profile_link_color": "C991C9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E5507E",
+                "profile_text_color": "362720",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu May 23 23:59:43 +0000 2019",
+            "id": 1131711336474456000,
+            "id_str": "1131711336474456065",
+            "text": "RT @TIMESUPNOW: .@TIMESUPLDF joined @FightFor15 &amp; @ACLU to file 23 new charges against @McDonalds because NOBODY should have to go through…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "TIMESUPNOW",
+                        "name": "TIME'S UP",
+                        "id": 941782988819521500,
+                        "id_str": "941782988819521536",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "TIMESUPLDF",
+                        "name": "TIME'S UP Legal Defense Fund",
+                        "id": 954476389184438300,
+                        "id_str": "954476389184438273",
+                        "indices": [
+                            17,
+                            28
+                        ]
+                    },
+                    {
+                        "screen_name": "fightfor15",
+                        "name": "Fight For 15",
+                        "id": 862430010,
+                        "id_str": "862430010",
+                        "indices": [
+                            36,
+                            47
+                        ]
+                    },
+                    {
+                        "screen_name": "ACLU",
+                        "name": "ACLU",
+                        "id": 13393052,
+                        "id_str": "13393052",
+                        "indices": [
+                            54,
+                            59
+                        ]
+                    },
+                    {
+                        "screen_name": "McDonalds",
+                        "name": "McDonald's",
+                        "id": 71026122,
+                        "id_str": "71026122",
+                        "indices": [
+                            91,
+                            101
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3023237371,
+                "id_str": "3023237371",
+                "name": "AgathasAjax",
+                "screen_name": "AgathasAjax",
+                "location": "Physically in Texas.",
+                "description": "Otherwise occupying the entire universe.🕵️‍♀️",
+                "url": "https://t.co/QC4kGr7jXd",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/QC4kGr7jXd",
+                                "expanded_url": "http://AgathasAjax.tumblr.com",
+                                "display_url": "AgathasAjax.tumblr.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 57,
+                "friends_count": 386,
+                "listed_count": 1,
+                "created_at": "Tue Feb 17 03:01:48 +0000 2015",
+                "favourites_count": 20619,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3022,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/567521049026129921/csxSyw5s_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/567521049026129921/csxSyw5s_normal.jpeg",
+                "profile_link_color": "216555",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue May 21 15:50:27 +0000 2019",
+                "id": 1130863434197717000,
+                "id_str": "1130863434197716992",
+                "text": ".@TIMESUPLDF joined @FightFor15 &amp; @ACLU to file 23 new charges against @McDonalds because NOBODY should have to go… https://t.co/xcxUDwJBvx",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "TIMESUPLDF",
+                            "name": "TIME'S UP Legal Defense Fund",
+                            "id": 954476389184438300,
+                            "id_str": "954476389184438273",
+                            "indices": [
+                                1,
+                                12
+                            ]
+                        },
+                        {
+                            "screen_name": "fightfor15",
+                            "name": "Fight For 15",
+                            "id": 862430010,
+                            "id_str": "862430010",
+                            "indices": [
+                                20,
+                                31
+                            ]
+                        },
+                        {
+                            "screen_name": "ACLU",
+                            "name": "ACLU",
+                            "id": 13393052,
+                            "id_str": "13393052",
+                            "indices": [
+                                38,
+                                43
+                            ]
+                        },
+                        {
+                            "screen_name": "McDonalds",
+                            "name": "McDonald's",
+                            "id": 71026122,
+                            "id_str": "71026122",
+                            "indices": [
+                                75,
+                                85
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/xcxUDwJBvx",
+                            "expanded_url": "https://twitter.com/i/web/status/1130863434197716992",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                120,
+                                143
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 941782988819521500,
+                    "id_str": "941782988819521536",
+                    "name": "TIME'S UP",
+                    "screen_name": "TIMESUPNOW",
+                    "location": "",
+                    "description": "TIME’S UP™ is an organization that insists on safe, fair & dignified work for women of all kinds.",
+                    "url": "https://t.co/VaCDHtHbUu",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/VaCDHtHbUu",
+                                    "expanded_url": "http://timesupnow.com",
+                                    "display_url": "timesupnow.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 122240,
+                    "friends_count": 476,
+                    "listed_count": 540,
+                    "created_at": "Fri Dec 15 21:32:16 +0000 2017",
+                    "favourites_count": 1110,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 1966,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1130533645830148096/kKYW94PQ_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130533645830148096/kKYW94PQ_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/941782988819521536/1558375213",
+                    "profile_link_color": "000000",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 40,
+                "favorite_count": 118,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 40,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
             "lang": "en"
         }
     ],
     "search_metadata": {
-        "completed_in": 0.099,
-        "max_id": 1131559292610465800,
-        "max_id_str": "1131559292610465792",
-        "next_results": "?max_id=1131556231175442441&q=%23mcdonalds&include_entities=1",
+        "completed_in": 0.087,
+        "max_id": 1131718979716829200,
+        "max_id_str": "1131718979716829184",
+        "next_results": "?max_id=1131711336474456064&q=%23mcdonalds&include_entities=1",
         "query": "%23mcdonalds",
-        "refresh_url": "?since_id=1131559292610465792&q=%23mcdonalds&include_entities=1",
+        "refresh_url": "?since_id=1131718979716829184&q=%23mcdonalds&include_entities=1",
         "count": 15,
         "since_id": 0,
         "since_id_str": "0"

@@ -1,39 +1,40 @@
-// const express = require('express');
 const Twitter = require('twitter');
 const fs = require('fs');
-// const app = express();`
+require('dotenv').config();
 
-// Create a new Twitter object with consumer_key, consumer_secret, access_token_key, access_token_secret in ./.env.js
-const client = require('./.env.js');
+// Promisify fs.writeFile
+// From callbacks to fs promises to handle the file system in Node.js
+const util = require('util');
+const writeFile = util.promisify(fs.writeFile);
 
+// Change out keys here:
+const client = new Twitter({
+  consumer_key: process.env.TWITTER_CONSUMER_KEY,
+  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
+});
+
+// // Promises version of fetch function created by Jacky
 const fetchData = (endPoint, parameterObj, callback) => {
-  client.get(endPoint, parameterObj, (error, data, response) => {
-    if (error) console.log(error);
+  let fileName = endPoint.split('/').join('') + '.json';
 
-    let dataJSON = JSON.stringify(data);
-    const fileName = endPoint.split('/').join('') + '.json';
-
-    fs.writeFile(fileName, dataJSON, 'utf8', err => {
-      if (err) {
-        console.log('An error occured while writing JSON');
-        return console.log(err);
-      }
-
-      console.log('JSON file has been saved');
+  client
+    .get(endPoint, parameterObj)
+    .then(data => JSON.stringify(data))
+    .then(dataJSON => writeFile(fileName, dataJSON, 'utf8'))
+    .then(() => console.log('JSON file has been saved'))
+    .then(() => require(`./${fileName}`))
+    .then(savedData => {
+      if (callback) callback(savedData);
+    })
+    .catch(error => {
+      throw error;
     });
-
-    callback(data);
-  });
 };
 
-// fetchData('search/tweets', { q: '#mcdonalds' });
-fetchData(
-  'statuses/mentions_timeline',
-  {
-    screen_name: 'Twitter Dev',
-    count: 5,
-  },
-  tweets => {
-    console.log(tweets.length);
-  }
-);
+// fetchData('search/tweets', { q: '#mcdonalds' }, tweets => console.log(tweets));
+fetchData('statuses/user_timeline', {
+  screen_name: 'realDonaldTrump',
+  count: 200,
+});
